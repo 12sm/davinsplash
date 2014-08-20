@@ -30,7 +30,7 @@ var Roots = {
   home: {
     init: function() {
       // JavaScript to be fired on the home page
-      $.backstretch('../wp-content/themes/splash/assets/img/bg.png');
+      $.backstretch('../wp-content/themes/splash/assets/img/bg.jpg');
     }
   },
   // About us page, note the change from about-us to about_us.
