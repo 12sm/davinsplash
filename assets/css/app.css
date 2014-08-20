@@ -29,6 +29,9 @@ margin: 0 auto;
 input#mc_embed_signup .button{
    width: 100%;
 }
+form#mc_embed_signup form{
+   padding-left: 0px;
+}
 input::-webkit-input-placeholder{
    font-family: 'proxima-nova';
    color: #888888;
