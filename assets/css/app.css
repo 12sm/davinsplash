@@ -14,9 +14,10 @@ background: transparent;
 clear: left;
 font: 14px Helvetica,Arial,sans-serif;
 }
-::-webkit-input-placeholder, :moz-placeholder, ::moz-placeholder, :ms-input-placeholder{
+input::-webkit-input-placeholder, input:moz-placeholder, input::moz-placeholder, input:ms-input-placeholder{
    font-family: 'proxima-nova';
    color: #888888;
+   text-align: center;
 }
 /* ==========================================================================
    Header
