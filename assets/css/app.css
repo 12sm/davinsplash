@@ -10,11 +10,14 @@
 body { }
 
 div#mc_embed_signup {
-background: #fff;
+background: transparent;
 clear: left;
 font: 14px Helvetica,Arial,sans-serif;
 }
-
+::-webkit-input-placeholder, :moz-placeholder, ::moz-placeholder, :ms-input-placeholder{
+   font-family: 'proxima-nova';
+   color: #888888;
+}
 /* ==========================================================================
    Header
    ========================================================================== */
