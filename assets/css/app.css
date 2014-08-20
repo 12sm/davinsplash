@@ -32,10 +32,13 @@ input#mc_embed_signup .button{
  #mc-embedded-subscribe-form{
    padding-left: 0px;
 }
-input#mce-EMAIL {
-background: #3a3a3a;
-border-radius: 25px;
-height: 25px;
+input#mce-EMAIL, input#mc-embedded-subscribe {
+   background: #3a3a3a;
+   border-radius: 25px;
+   height: 25px;
+   font-family: 'proxima-nova';
+   color: #888888;
+   text-align: center;
 }
 input::-webkit-input-placeholder{
    font-family: 'proxima-nova';
