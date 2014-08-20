@@ -28,6 +28,30 @@
 		<ul class="social-shots">
 			<!--Drink up Devs-->
 			<li class="outer insta">
-			<a href="http://instagram.com/davinmccoy" target="_blank">
+				<a href="http://instagram.com/davinmccoy" target="_blank">
+					<img src="/wp-content/themes/splash/assets/img/insta.png">
+				</a>
+			</li>
+			<li class="inner iTunes">
+				<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
+					<img src="/wp-content/themes/splash/assets/img/apple.png">
+				</a>
+			</li>
+			<li class="center facebook">
+				<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
+					<img src="/wp-content/themes/splash/assets/img/fb.png">
+				</a>
+			</li>
+			<li class="inner twitter">
+				<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+					<img src="/wp-content/themes/splash/assets/img/fb.png">
+				</a>
+			</li>
+			<li class="inner youtube">
+				<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+					<img src="/wp-content/themes/splash/assets/img/fb.png">
+				</a>
+			</li>
+		</ul>
 	</div>
 </div>
