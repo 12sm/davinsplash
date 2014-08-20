@@ -32,6 +32,9 @@ input#mc_embed_signup .button{
  #mc-embedded-subscribe-form{
    padding-left: 0px!important;
 }
+input#mc-embedded-subscribe.button{
+   padding-bottom: 10px;
+}
 input#mce-EMAIL, input#mc-embedded-subscribe.button {
    background: #3a3a3a;
    border-radius: 25px;
