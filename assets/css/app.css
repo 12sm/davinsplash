@@ -26,6 +26,9 @@ margin: 0 auto;
 .logo{
    margin: 0 auto;
 }
+input#mc_embed_signup .button{
+   width: 100%;
+}
 input::-webkit-input-placeholder{
    font-family: 'proxima-nova';
    color: #888888;
