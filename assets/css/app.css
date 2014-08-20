@@ -29,7 +29,7 @@ margin: 0 auto;
 input#mc_embed_signup .button{
    width: 100%;
 }
-form#mc_embed_signup{
+ #mc_embed_signup{
    padding-left: 0px;
 }
 input::-webkit-input-placeholder{
