@@ -23,6 +23,9 @@ clear: both;
 width: 120px;
 margin: 0 auto;
 }
+.logo{
+   margin: 0 auto;
+}
 input::-webkit-input-placeholder{
    font-family: 'proxima-nova';
    color: #888888;
