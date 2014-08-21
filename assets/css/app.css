@@ -67,18 +67,9 @@ input:ms-input-placeholder{
    list-style: none;
    padding-left: 0px;
 }
-.outer {
-top: -135px;
-}
-.shot-container {
-width: 90px;
-margin: 0 auto;
-}
-.inner {
-top: -25px;
-}
-.center {
-top: 30px;
+
+input#mc_embed_signup input:focus {
+border: transparent;
 }
 /* ==========================================================================
    Header
@@ -178,6 +169,7 @@ top: -25px;
 .center {
 top: 30px;
 }
+
  }
 
 /* Medium devices (desktops, 992px and up) */
