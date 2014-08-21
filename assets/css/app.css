@@ -71,6 +71,7 @@ input:ms-input-placeholder{
 width: 70px;
 height: 70px;
 margin: 0 auto;
+background: url(../img/shot.png);
 }
 #mc_embed_signup input:focus {
 outline: none;
