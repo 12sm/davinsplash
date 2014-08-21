@@ -68,10 +68,11 @@ input:ms-input-placeholder{
    padding-left: 0px;
 }
 .shot-container {
-width: 70px;
-height: 70px;
+width: 80px;
+height: 85px;
 margin: 0 auto;
-background: url(../img/shot.png);
+background: url(../img/shot.png) no-repeat;
+background-position: 0px -80px;
 }
 #mc_embed_signup input:focus {
 outline: none;
@@ -168,12 +169,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer.left{
+.outer.left div{
     -ms-transform: rotate(35deg); /* IE 9 */
     -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
     transform: rotate(35deg);
 }
-.outer.right{
+.outer.right div{
     -ms-transform: rotate(-35deg); /* IE 9 */
     -webkit-transform: rotate(-35deg); /* Chrome, Safari, Opera */
     transform: rotate(-35deg);
