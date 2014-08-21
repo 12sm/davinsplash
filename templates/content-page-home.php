@@ -28,35 +28,35 @@
 		<div class="row">
 			<ul class="social-shots">
 				<!--Drink up Devs-->
-				<li class="outer insta col-sm-2 col-sm-offset-1">
+				<li class="outer insta col-xs-6 col-sm-2 col-sm-offset-1">
 					<div class="shot-container">
 						<a href="http://instagram.com/davinmccoy" target="_blank">
 							<img src="/wp-content/themes/splash/assets/img/insta.png">
 						</a>
 					</div>
 				</li>
-				<li class="inner iTunes col-sm-2">
+				<li class="inner iTunes col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
 							<img src="/wp-content/themes/splash/assets/img/apple.png">
 						</a>
 					</div>
 				</li>
-				<li class="center facebook col-sm-2">
+				<li class="center facebook col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
 							<img src="/wp-content/themes/splash/assets/img/fb.png">
 						</a>
 					</div>
 				</li>
-				<li class="inner twitter col-sm-2">
+				<li class="inner twitter col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 							<img src="/wp-content/themes/splash/assets/img/fb.png">
 						</a>
 					</div>
 				</li>
-				<li class="outer youtube col-sm-2">
+				<li class="outer youtube col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 							<img src="/wp-content/themes/splash/assets/img/fb.png">
