@@ -168,7 +168,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer .left{
+.outer.left{
     -ms-transform: rotate(15deg); /* IE 9 */
     -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
     transform: rotate(15deg);
