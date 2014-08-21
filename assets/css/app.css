@@ -74,6 +74,9 @@ margin: 0 auto;
 #mc_embed_signup input:focus {
 outline: none;
 }
+.social-shots li {
+margin-bottom: 25px;
+}
 /* ==========================================================================
    Header
    ========================================================================== */
@@ -169,7 +172,9 @@ top: -25px;
 .center {
 top: 30px;
 }
-
+.social-shots li {
+margin-bottom: 0px;
+}
  }
 
 /* Medium devices (desktops, 992px and up) */
