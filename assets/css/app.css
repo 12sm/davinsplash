@@ -169,6 +169,21 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 top: -135px;
 }
 .outer.left{
+    -ms-transform: rotate(25deg); /* IE 9 */
+    -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
+    transform: rotate(25deg);
+}
+.outer.right{
+    -ms-transform: rotate(-25deg); /* IE 9 */
+    -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
+    transform: rotate(-25deg);
+}
+.inner.right{
+    -ms-transform: rotate(-15deg); /* IE 9 */
+    -webkit-transform: rotate(-15deg); /* Chrome, Safari, Opera */
+    transform: rotate(-15deg);
+}
+.inner.left{
     -ms-transform: rotate(15deg); /* IE 9 */
     -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
     transform: rotate(15deg);
