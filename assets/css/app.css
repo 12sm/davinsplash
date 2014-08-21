@@ -67,7 +67,10 @@ input:ms-input-placeholder{
    list-style: none;
    padding-left: 0px;
 }
-
+.shot-container {
+width: 90px;
+margin: 0 auto;
+}
 #mc_embed_signup input:focus {
 outline: none;
 }
@@ -159,10 +162,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.shot-container {
-width: 90px;
-margin: 0 auto;
-}
+
 .inner {
 top: -25px;
 }
