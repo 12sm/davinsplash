@@ -68,7 +68,17 @@ input:ms-input-placeholder{
    padding-left: 0px;
 }
 .outer {
-top: -115px;
+top: -135px;
+}
+.shot-container {
+width: 90px;
+margin: 0 auto;
+}
+.inner {
+top: -25px;
+}
+.center {
+top: 30px;
 }
 /* ==========================================================================
    Header
