@@ -68,8 +68,8 @@ input:ms-input-placeholder{
    padding-left: 0px;
 }
 
-input#mc_embed_signup input:focus {
-border: transparent;
+#mc_embed_signup input:focus {
+outline: none;
 }
 /* ==========================================================================
    Header
