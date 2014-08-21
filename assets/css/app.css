@@ -68,7 +68,8 @@ input:ms-input-placeholder{
    padding-left: 0px;
 }
 .shot-container {
-width: 90px;
+width: 70px;
+height: 70px;
 margin: 0 auto;
 }
 #mc_embed_signup input:focus {
@@ -77,11 +78,12 @@ outline: none;
 .social-shots li {
 margin-bottom: 25px;
 }
+
 /* ==========================================================================
    Header
    ========================================================================== */
 
-.banner { }
+.banner {  }
 
 
 
