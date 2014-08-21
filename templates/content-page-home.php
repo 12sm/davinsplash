@@ -28,13 +28,13 @@
 		<div class="row">
 			<ul class="social-shots">
 				<!--Drink up Devs-->
-				<li class="outer insta col-xs-6 col-sm-2 col-sm-offset-1">
+				<li class="outer left insta col-xs-6 col-sm-2 col-sm-offset-1">
 					<div class="shot-container">
 						<a href="http://instagram.com/davinmccoy" target="_blank">
 						</a>
 					</div>
 				</li>
-				<li class="inner iTunes col-xs-6 col-sm-2">
+				<li class="inner left iTunes col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
 						</a>
@@ -46,13 +46,13 @@
 						</a>
 					</div>
 				</li>
-				<li class="inner twitter col-xs-6 col-sm-2">
+				<li class="inner right twitter col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 						</a>
 					</div>
 				</li>
-				<li class="outer youtube col-xs-6 col-sm-2">
+				<li class="outer right youtube col-xs-6 col-sm-2">
 					<div class="shot-container">
 						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 						</a>
