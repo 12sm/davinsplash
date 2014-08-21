@@ -63,6 +63,10 @@ input:ms-input-placeholder{
    color: #888888;
    text-align: center;
 }
+.socials-shots{
+   list-style: none;
+   padding-left: 0px;
+}
 /* ==========================================================================
    Header
    ========================================================================== */

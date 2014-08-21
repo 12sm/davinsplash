@@ -48,7 +48,7 @@
 						<img src="/wp-content/themes/splash/assets/img/fb.png">
 					</a>
 				</li>
-				<li class="inner youtube col-sm-2">
+				<li class="outer youtube col-sm-2">
 					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 						<img src="/wp-content/themes/splash/assets/img/fb.png">
 					</a>
