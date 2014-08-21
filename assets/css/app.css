@@ -169,11 +169,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 top: -135px;
 }
 .outer .left{
-   div {
     -ms-transform: rotate(15deg); /* IE 9 */
     -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
     transform: rotate(15deg);
-}
 }
 .inner {
 top: -25px;
