@@ -25,33 +25,35 @@
 			<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='text';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 			<!--End mc_embed_signup-->
 		</div>
-		<ul class="social-shots">
-			<!--Drink up Devs-->
-			<li class="outer insta">
-				<a href="http://instagram.com/davinmccoy" target="_blank">
-					<img src="/wp-content/themes/splash/assets/img/insta.png">
-				</a>
-			</li>
-			<li class="inner iTunes">
-				<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
-					<img src="/wp-content/themes/splash/assets/img/apple.png">
-				</a>
-			</li>
-			<li class="center facebook">
-				<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
-					<img src="/wp-content/themes/splash/assets/img/fb.png">
-				</a>
-			</li>
-			<li class="inner twitter">
-				<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
-					<img src="/wp-content/themes/splash/assets/img/fb.png">
-				</a>
-			</li>
-			<li class="inner youtube">
-				<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
-					<img src="/wp-content/themes/splash/assets/img/fb.png">
-				</a>
-			</li>
-		</ul>
+		<div class="row">
+			<ul class="social-shots">
+				<!--Drink up Devs-->
+				<li class="outer insta col-sm-2 col-sm-offset-1">
+					<a href="http://instagram.com/davinmccoy" target="_blank">
+						<img src="/wp-content/themes/splash/assets/img/insta.png">
+					</a>
+				</li>
+				<li class="inner iTunes col-sm-2">
+					<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
+						<img src="/wp-content/themes/splash/assets/img/apple.png">
+					</a>
+				</li>
+				<li class="center facebook col-sm-2">
+					<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
+						<img src="/wp-content/themes/splash/assets/img/fb.png">
+					</a>
+				</li>
+				<li class="inner twitter col-sm-2">
+					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<img src="/wp-content/themes/splash/assets/img/fb.png">
+					</a>
+				</li>
+				<li class="inner youtube col-sm-2">
+					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<img src="/wp-content/themes/splash/assets/img/fb.png">
+					</a>
+				</li>
+			</ul>
+		</div>
 	</div>
 </div>
