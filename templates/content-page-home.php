@@ -68,13 +68,15 @@
 					</a>
 				</li>
 				<li class="outer right youtube col-xs-6 col-sm-2">
+					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<i class="fa fa-youtube"></i>
 					<div class="shot-mask">
 					<div class="shot-container">
-						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
-						<i class="fa fa-youtube"></i>
-						</a>
+
+
 					</div>
 					</div>
+					</a>
 				</li>
 			</ul>
 		</div>
