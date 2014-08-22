@@ -44,6 +44,7 @@
 				</li>
 				<li class="inner left iTunes col-xs-6 col-sm-2">
 					<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
+						<span class='hover-shot'>
 						<div class="icon-box">
 						<i class='fa fa-apple'></i>
 						</div>
@@ -53,10 +54,12 @@
 
 							</div>
 							</div>
+							</span>
 						</a>
 				</li>
 				<li class="center facebook col-xs-6 col-sm-2">
 					<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
+						<span class='hover-shot'>
 						<div class="icon-box">
 						<i class='fa fa-facebook'></i>
 						</div>
@@ -64,10 +67,12 @@
 							<div class="shot-container">
 							</div>
 						</div>
+						</span>
 					</a>
 				</li>
 				<li class="inner right twitter col-xs-6 col-sm-2">
 					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<span class='hover-shot'>
 						<div class="icon-box">
 						<i class='fa fa-twitter'></i>
 						</div>
@@ -75,10 +80,12 @@
 							<div class="shot-container">
 							</div>
 						</div>
+						</span>
 					</a>
 				</li>
 				<li class="outer right youtube col-xs-6 col-sm-2">
 					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<span class='hover-shot'>
 						<div class="icon-box">
 						<i class="fa fa-youtube"></i>
 						</div>
@@ -88,6 +95,7 @@
 
 					</div>
 					</div>
+					</span>
 					</a>
 				</li>
 			</ul>
