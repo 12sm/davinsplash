@@ -29,8 +29,8 @@
 			<ul class="social-shots">
 				<!--Drink Up-->
 				<li class="outer left insta col-xs-6 col-sm-2 col-sm-offset-1">
-					<a href="http://instagram.com/davinmccoy" target="_blank">
-						<i class='fa fa-instagram'></i>
+					<!--<a href="http://instagram.com/davinmccoy" target="_blank">
+						<i class='fa fa-instagram'></i>-->
 						<div class="shot-mask">
 							<div class="shot-container">
 
