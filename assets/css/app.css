@@ -75,14 +75,11 @@ background: url(../img/shot.png) no-repeat;
 background-position: 0px -80px;
 }
 .shot-mask{
-mask: url(../img/shot.png);
--webkit-mask: url(../img/shot.png);
--webkit-mask-position: 0px 83px;
--o-mask: url(../img/shot.png);
--ms-mask: url(../img/shot.png);
+background: url(../img/shot.png);
 width: 80px;
 height: 85px;
 margin: 0 auto;
+background-position: 0px 0px;
 }
 #mc_embed_signup input:focus {
 outline: none;
