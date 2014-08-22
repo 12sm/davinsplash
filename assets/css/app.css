@@ -88,7 +88,7 @@ mask: url(../img/shot.png);
 -ms-mask: url(../img/shot.png);
 }
 .shot-mask:hover{
-   background-position: 0px 0px;
+   background-position: 0px 0px!important;
 }
 #mc_embed_signup input:focus {
 outline: none;
