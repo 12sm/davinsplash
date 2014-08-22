@@ -185,7 +185,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer.left .shot-mask{
+.outer.left .shot-container{
     -ms-transform: rotate(35deg); /* IE 9 */
     -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
     transform: rotate(35deg);
