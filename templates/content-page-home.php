@@ -84,7 +84,7 @@
 					</a>
 				</li>
 				<li class="outer right youtube col-xs-6 col-sm-2">
-					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+					<a href="https://www.youtube.com/user/atldust" target="_blank">
 						<span class='hover-shot'>
 						<div class="icon-box">
 						<i class="fa fa-youtube"></i>
