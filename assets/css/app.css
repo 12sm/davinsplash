@@ -78,13 +78,17 @@ background-position: 0px -80px;
 width: 80px;
 height: 83px;
 margin: 0 auto;
-background-position: 7px 60px!important;
+-webkit-transition:background-position .6s ease;
+background-position: 0px 60px!important;
 background: url(../img/shot.png) no-repeat;
 mask: url(../img/shot.png);
 -webkit-mask: url(../img/shot.png);
 -webkit-mask-position: 0px 3px;
 -o-mask: url(../img/shot.png);
 -ms-mask: url(../img/shot.png);
+}
+.shot-mask:hover{
+   background-position: 0px 0px;
 }
 #mc_embed_signup input:focus {
 outline: none;
