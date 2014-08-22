@@ -182,22 +182,22 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer.left div{
+.outer.left .shot-container{
     -ms-transform: rotate(35deg); /* IE 9 */
     -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
     transform: rotate(35deg);
 }
-.outer.right div{
+.outer.right .shot-container{
     -ms-transform: rotate(-35deg); /* IE 9 */
     -webkit-transform: rotate(-35deg); /* Chrome, Safari, Opera */
     transform: rotate(-35deg);
 }
-.inner.right{
+.inner.right .shot-container{
     -ms-transform: rotate(-25deg); /* IE 9 */
     -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
     transform: rotate(-25deg);
 }
-.inner.left{
+.inner.left .shot-container{
     -ms-transform: rotate(25deg); /* IE 9 */
     -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
     transform: rotate(25deg);
