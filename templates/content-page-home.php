@@ -29,12 +29,13 @@
 			<ul class="social-shots">
 				<!--Drink Up-->
 				<li class="outer left insta col-xs-6 col-sm-2 col-sm-offset-1">
+					<div class="shot-mask">
 					<div class="shot-container">
-						<div class="shot-mask">
 							<a href="http://instagram.com/davinmccoy" target="_blank">
 							<i class='fa fa-instagram'></i>
 						</a>
 						</a>
+					</div>
 					</div>
 				</li>
 				<li class="inner left iTunes col-xs-6 col-sm-2">
