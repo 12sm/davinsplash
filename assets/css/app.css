@@ -80,6 +80,9 @@ mask: url(../img/shot.png);
 -webkit-mask-position: 0px 83px;
 -o-mask: url(../img/shot.png);
 -ms-mask: url(../img/shot.png);
+width: 80px;
+height: 85px;
+margin: 0 auto;
 }
 #mc_embed_signup input:focus {
 outline: none;
@@ -182,7 +185,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer.left .shot-container{
+.outer.left .shot-mask{
     -ms-transform: rotate(35deg); /* IE 9 */
     -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
     transform: rotate(35deg);
