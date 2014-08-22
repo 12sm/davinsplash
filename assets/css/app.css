@@ -72,7 +72,7 @@ width: 80px;
 height: 85px;
 margin: 0 auto;
 background: url(../img/shot.png) no-repeat;
-background-position: 0px 2px;
+background-position: 0px -80px;
 }
 .shot-mask{
 mask: url(../img/shot.png);
