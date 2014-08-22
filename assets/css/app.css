@@ -92,12 +92,14 @@ outline: none;
 .social-shots li {
 margin-bottom: 25px;
 }
-.social-shots i{
-   color: #fff;
-   font-size: 32px;
-   text-align: center;
-   width: 100%;
-   margin-top: 15px;
+.social-shots i {
+color: #fff;
+font-size: 32px;
+text-align: center;
+top: 15px;
+position: absolute;
+left: 50%;
+margin-left: -15px;
 }
 .icon-box{
    width: 80px;

@@ -42,7 +42,9 @@
 				</li>
 				<li class="inner left iTunes col-xs-6 col-sm-2">
 					<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
+						<div class="icon-box">
 						<i class='fa fa-apple'></i>
+						</div>
 							<div class="shot-mask">
 							<div class="shot-container">
 
@@ -53,7 +55,9 @@
 				</li>
 				<li class="center facebook col-xs-6 col-sm-2">
 					<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
+						<div class="icon-box">
 						<i class='fa fa-facebook'></i>
+						</div>
 						<div class="shot-mask">
 							<div class="shot-container">
 							</div>
@@ -62,7 +66,9 @@
 				</li>
 				<li class="inner right twitter col-xs-6 col-sm-2">
 					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<div class="icon-box">
 						<i class='fa fa-twitter'></i>
+						</div>
 						<div class="shot-mask">
 							<div class="shot-container">
 							</div>
@@ -71,7 +77,9 @@
 				</li>
 				<li class="outer right youtube col-xs-6 col-sm-2">
 					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+						<div class="icon-box">
 						<i class="fa fa-youtube"></i>
+						</div>
 					<div class="shot-mask">
 					<div class="shot-container">
 
