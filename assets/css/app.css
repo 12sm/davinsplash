@@ -78,7 +78,7 @@ background-position: 0px -80px;
 width: 80px;
 height: 83px;
 margin: 0 auto;
--webkit-transition:background-position .6s ease;
+-webkit-transition:background-position .5s ease;
 background-position: 0px 60px!important;
 background: url(../img/shot.png) no-repeat;
 mask: url(../img/shot.png);
@@ -100,7 +100,7 @@ outline: none;
 margin-bottom: 25px;
 }
 .social-shots i {
-   -webkit-transition:colors 1s ease;
+   -webkit-transition:colors .8s ease;
 color: #fff;
 font-size: 32px;
 text-align: center;
