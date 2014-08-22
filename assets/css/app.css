@@ -11,6 +11,9 @@
 .credits a{
    color: #D8D8D8;
 }
+.credits a:hover{
+   color: #fff;
+}
 div#mc_embed_signup {
 background: transparent;
 clear: left;
