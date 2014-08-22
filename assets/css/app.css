@@ -74,12 +74,20 @@ margin: 0 auto;
 background: url(../img/shot.png) no-repeat;
 background-position: 0px -80px;
 }
-.shot-mask{
+.shot-mask {
 width: 80px;
 height: 83px;
 margin: 0 auto;
-background-position: 0px -80px;
+background-position: 7px 60px!important;
 background: url(../img/shot.png) no-repeat;
+position: absolute;
+top: 0;
+left: 0;
+mask: url(../img/shot.png);
+-webkit-mask: url(../img/shot.png);
+-webkit-mask-position: 0px 3px;
+-o-mask: url(../img/shot.png);
+-ms-mask: url(../img/shot.png);
 }
 #mc_embed_signup input:focus {
 outline: none;
