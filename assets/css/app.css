@@ -8,7 +8,9 @@
    ========================================================================== */
 
 
-
+.credits a{
+   color: #D8D8D8;
+}
 div#mc_embed_signup {
 background: transparent;
 clear: left;
