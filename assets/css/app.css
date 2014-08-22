@@ -88,7 +88,10 @@ mask: url(../img/shot.png);
 -ms-mask: url(../img/shot.png);
 }
 .shot-mask:hover{
-   background-position: 0px 0px!important;
+   background-position: 0px 10px!important;
+}
+.social-shots i:hover{
+   color: #000;
 }
 #mc_embed_signup input:focus {
 outline: none;
@@ -97,6 +100,7 @@ outline: none;
 margin-bottom: 25px;
 }
 .social-shots i {
+   -webkit-transition:colors 1s ease;
 color: #fff;
 font-size: 32px;
 text-align: center;
