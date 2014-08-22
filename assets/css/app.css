@@ -187,22 +187,22 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 .outer {
 top: -135px;
 }
-.outer.left .shot-mask{
+.outer.left{
     -ms-transform: rotate(35deg); /* IE 9 */
     -webkit-transform: rotate(35deg); /* Chrome, Safari, Opera */
     transform: rotate(35deg);
 }
-.outer.right .shot-container{
+.outer.right{
     -ms-transform: rotate(-35deg); /* IE 9 */
     -webkit-transform: rotate(-35deg); /* Chrome, Safari, Opera */
     transform: rotate(-35deg);
 }
-.inner.right .shot-container{
+.inner.right{
     -ms-transform: rotate(-25deg); /* IE 9 */
     -webkit-transform: rotate(-25deg); /* Chrome, Safari, Opera */
     transform: rotate(-25deg);
 }
-.inner.left .shot-container{
+.inner.left{
     -ms-transform: rotate(25deg); /* IE 9 */
     -webkit-transform: rotate(25deg); /* Chrome, Safari, Opera */
     transform: rotate(25deg);
