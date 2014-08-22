@@ -29,8 +29,8 @@
 			<ul class="social-shots">
 				<!--Drink Up-->
 				<li class="outer left insta col-xs-6 col-sm-2 col-sm-offset-1">
-					<!--<a href="http://instagram.com/davinmccoy" target="_blank">
-						<i class='fa fa-instagram'></i>-->
+					<a href="http://instagram.com/davinmccoy" target="_blank">
+						<i class='fa fa-instagram'></i>
 						<div class="shot-mask">
 							<div class="shot-container">
 
@@ -39,31 +39,41 @@
 					</a>
 				</li>
 				<li class="inner left iTunes col-xs-6 col-sm-2">
-					<div class="shot-container">
-						<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
+					<a href="https://itunes.apple.com/us/artist/davin-mccoy/id348323607" target="_blank">
 						<i class='fa fa-apple'></i>
+							<div class="shot-mask">
+							<div class="shot-container">
+
+
+							</div>
+							</div>
 						</a>
-					</div>
 				</li>
 				<li class="center facebook col-xs-6 col-sm-2">
-					<div class="shot-container">
-						<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
+					<a href="https://www.facebook.com/DavinMcCoyMusic" target="_blank">
 						<i class='fa fa-facebook'></i>
-						</a>
-					</div>
+						<div class="shot-mask">
+							<div class="shot-container">
+							</div>
+						</div>
+					</a>
 				</li>
 				<li class="inner right twitter col-xs-6 col-sm-2">
-					<div class="shot-container">
-						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
+					<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 						<i class='fa fa-twitter'></i>
-						</a>
-					</div>
+						<div class="shot-mask">
+							<div class="shot-container">
+							</div>
+						</div>
+					</a>
 				</li>
 				<li class="outer right youtube col-xs-6 col-sm-2">
+					<div class="shot-mask">
 					<div class="shot-container">
 						<a href="https://twitter.com/DavinMcCoyBand" target="_blank">
 						<i class="fa fa-youtube"></i>
 						</a>
+					</div>
 					</div>
 				</li>
 			</ul>
