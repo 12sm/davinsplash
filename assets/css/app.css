@@ -215,6 +215,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    float: none;
    text-align: center;
    margin-top: -15px!important;
+   color: #fff;
    }
 #mce-responses div{
    width: 100%!important;
